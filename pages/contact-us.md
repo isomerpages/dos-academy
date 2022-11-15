@@ -13,8 +13,8 @@ locations:
     title: Department of Statistics
 contacts:
   - content:
-      - phone: 63327686
-      - fax: 63327689
+      - phone: 
+      - fax: 
       - email: info@singstat.gov.sg
     title: "Main Line:"
 ---
