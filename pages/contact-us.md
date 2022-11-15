@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6563 3276
       - email: info@singstat.gov.sg
-      - other: ""
+      - other: "For the comprehensive listing of Singapore Department of Statistics (DOS) officers' contact details, please access [DOS's directory](https://www.sgdi.gov.sg/ministries/mti/departments/dos) at the [Singapore Government Directory Interactive] (https://www.sgdi.gov.sg/ministries)."
     title: "Main Line:"
 ---
