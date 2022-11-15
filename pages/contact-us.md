@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6563 3276
       - email: info@singstat.gov.sg
-      - other: "[SGDI](https://www.sgdi.gov.sg/ministries/mti/departments/dos)"
+      - other: ""
     title: "Main Line:"
 ---
