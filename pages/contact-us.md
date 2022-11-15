@@ -16,6 +16,5 @@ contacts:
       - phone: 63327686
       - fax: 63327689
       - email: info@singstat.gov.sg
-    https://www.sgdi.gov.sg/ministries/mti/departments/dos
     title: "Main Line:"
 ---
