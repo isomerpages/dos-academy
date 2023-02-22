@@ -13,7 +13,7 @@ locations:
     title: Department of Statistics
 contacts:
   - content:
-      - phone: +65 6332 7686
+      - phone:
       - email: info@singstat.gov.sg
       - other: ""
     title: "Main Line:"
